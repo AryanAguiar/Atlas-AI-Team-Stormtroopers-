@@ -8,8 +8,6 @@ const History = () => {
      <MainHistory />
      <Sidebar />
     </>
-   
-
   )
 }
 
